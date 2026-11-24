@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compilation
+bin/
+obj/
+
+# Fichiers temporaires
+*.tmp
+*.log
+
+# Secrets et configurations locales
+appsettings.Development.json
